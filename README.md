@@ -20,6 +20,12 @@ Start the server:
 fastmcp dev server.py
 ```
 
+Add to Claude Code:
+
+```bash
+mcp add securelaunch -- fastmcp run server.py
+```
+
 The server exposes endpoints that allow:
 
 -   Repository cloning
