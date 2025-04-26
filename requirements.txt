@@ -1,0 +1,8 @@
+trufflehog>=3.0.0
+semgrep>=1.50.0
+pip-audit>=2.5.0
+fastapi>=0.95.0
+uvicorn>=0.22.0
+python-dotenv>=1.0.0
+pydantic>=2.0.0
+gitpython>=3.1.30

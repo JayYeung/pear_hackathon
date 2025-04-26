@@ -166,3 +166,5 @@ cython_debug/
 ### Self added
 # Javascript
 node_modules/
+__pycache__/
+*.py[cod]
