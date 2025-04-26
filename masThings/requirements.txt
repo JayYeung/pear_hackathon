@@ -1,0 +1,9 @@
+langchain
+langchain-openai # Keep for now, might be useful for comparison or other tools
+langchain-anthropic
+langgraph
+langchain-mcp-adapters
+fastmcp
+uvicorn
+python-dotenv
+GitPython # Optional, but useful for more robust git operations
